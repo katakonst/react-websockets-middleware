@@ -11,6 +11,8 @@
     "websocket",
     "socket"
   ],
+  "dependencies": {},
+  "devDependencies": {},
   "author": "katakonst",
   "license": "MIT"
 }
