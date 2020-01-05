@@ -1,0 +1,16 @@
+{
+  "name": "react-websockets-middleware",
+  "version": "1.0.0",
+  "description": "Web Socket middleware for React and Redux",
+  "main": "index.js",
+  "keywords": [
+    "redux",
+    "middleware",
+    "redux-middleware",
+    "react",
+    "websocket",
+    "socket"
+  ],
+  "author": "katakonst",
+  "license": "MIT"
+}
